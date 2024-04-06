@@ -21,5 +21,26 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniismess&show_icons=true&locale=en" alt="aniismess" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniismess&" alt="aniismess" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aniismess&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aniismess&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aniismess&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aniismess&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aniismess&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=aniismess&icon=5&color=2)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
