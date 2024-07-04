@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniismess&label=Profile%20views&color=0e75b6&style=flat" alt="aniismess" /> </p>
 
-- 🔭 I’m currently working on **Snake game and weather forecasting app**
+- 🔭 I’m currently working on **Figuringoutmylife**
 
 - 🌱 I’m currently learning **Solana ,scala,bootstrap, Polaroid**
 
