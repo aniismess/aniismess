@@ -1,4 +1,4 @@
-<h1 align="center">hello, I'm Animesh Mishra</h1>
+<h1 align="center">Hello, I'm Animesh Mishra</h1>
 <h3 align="center">Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniismess&label=Profile%20views&color=0e75b6&style=flat" alt="aniismess" /> </p>
@@ -9,7 +9,7 @@
 
 - I’m currently learning **Zig,Yaml,Neovim,Java,Dsa**
 
-- All of my projects are available at [https://ligmawhat.vercel.app/](https://ligmawhat.vercel.app/)
+- All of my projects are available at [Ts](https://ligmawhat.vercel.app/)
 
 - Ask me about **Life**
 
