@@ -1,1 +1,2 @@
-[![](https://raw.githubusercontent.com/jasonlong/jasonlong/main/chat.svg)](https://github.com/aniismess)
+[![]](https://github.com/aniismess)
+<img src="chat.svg" alt="Animesh Mishra's GitHub Profile Readme" />
