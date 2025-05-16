@@ -2,7 +2,7 @@
 <h3 align="center">Backend developer from India</h3>
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://gifdb.com/images/high/fight-club-tyler-beaten-up-c09oy86ykwshcpgk.webp">
 </div>
 
 </br>
