@@ -1,7 +1,13 @@
 <h1 align="center">Hello, I'm Animesh Mishra</h1>
 <h3 align="center">Backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniismess&label=Profile%20views&color=0e75b6&style=flat" alt="aniismess" /> </p>
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
+
+</br>
+</br>
+</br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniismess" alt="aniismess" /></a> </p>
 
