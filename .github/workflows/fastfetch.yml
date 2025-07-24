@@ -15,11 +15,11 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y fastfetch
       - name: Generate fastfetch output
-        run: fastfetch > fastfetch_output.txt
+        run: fastfetch | grep -E "DISTRO:|KERNEL:|UPTIME:|PACKAGES:|SHELL:|DE/WM:|CPU:|GPU1:|GPU2:|MEMORY:" > fastfetch_output.txt
       - name: Update README.md
         run: |
           FASTFETCH_OUTPUT=$(cat fastfetch_output.txt)
-          perl -i -p0e "s/(<!-- FASTFETCH_START -->).*?(<!-- FASTFETCH_END -->)/\$1\n\n${FASTFETCH_OUTPUT}\n\n\$2/s" README.md
+          perl -i -p0e "s/(<!-- FASTFETCH_START -->).*?(<!-- FASTFETCH_END -->)/$1\n\n${FASTFETCH_OUTPUT}\n\n$2/s" README.md
       - name: Commit and push changes
         run: |
           git config user.name github-actions

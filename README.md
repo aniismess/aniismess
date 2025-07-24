@@ -59,6 +59,6 @@ C, CSS, Django, Docker, Electron, Figma, Firebase, Flask, Git, Go, GraphQL, HTML
 
 ### My Contribution Graph
 
-![snake gif](https://github.com/aniismess/aniismess/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/aniismess/aniismess/output/github-contribution-grid-snake.svg)
 
 ```
