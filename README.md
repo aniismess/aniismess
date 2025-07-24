@@ -36,7 +36,7 @@ UPTIME:  5 hours, 2 mins
 ### Backend developer from India
 
 - I’m currently working on **A Jvm entirely Made in Zig**
-- I’m currently learning **Zig,Yaml,Neovim,Java,Dsa**
+- I’m currently learning **Neovim,Java,Dsa**
 - All of my projects are available at [Ts](https://ligmawhat.vercel.app/)
 - Ask me about **Life**
 - How to reach me **animesh.mishra818@gmail.com**
