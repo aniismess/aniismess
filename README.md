@@ -1,5 +1,5 @@
 ```
-(\__/)
+(\__/)                                                                        
 (•ㅅ•)
 ＿ノヽ ノ＼＿
 /　`/ ⌒Ｙ⌒ Ｙ　ヽ
@@ -8,7 +8,7 @@
 ヽ＿＿＿＞､＿_／
 　　 ｜( 王 ﾉ〈
 　　 /ﾐ`ー―彡\
-```
+
 
 <!-- FASTFETCH_START -->
 DISTRO:  Arch Linux x86_64
@@ -28,7 +28,7 @@ MEMORY:  4.59 GiB / 15.46 GiB (30%)
 SWAP:  256.00 KiB / 4.00 GiB (0%)
 UPTIME:  5 hours, 2 mins
 <!-- FASTFETCH_END -->
-
+```
 
 
 # Hello, I'm Animesh Mishra
