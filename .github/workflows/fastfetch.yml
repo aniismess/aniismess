@@ -1,0 +1,29 @@
+name: Update Fastfetch Info
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Run every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-fastfetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install fastfetch
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fastfetch
+      - name: Generate fastfetch output
+        run: fastfetch > fastfetch_output.txt
+      - name: Update README.md
+        run: |
+          FASTFETCH_OUTPUT=$(cat fastfetch_output.txt)
+          perl -i -p0e "s/(<!-- FASTFETCH_START -->).*?(<!-- FASTFETCH_END -->)/\$1\n\n${FASTFETCH_OUTPUT}\n\n\$2/s" README.md
+      - name: Commit and push changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git commit -m "Update fastfetch info" || echo "No changes to commit"
+          git push
