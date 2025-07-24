@@ -1,8 +1,11 @@
-![C](https://img.shields.io/badge/C-%23FFFFFF.svg?style=for-the-badge&logo=c)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23AA9966.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23995555.svg?style=for-the-badge&logo=linux)
-![Neovim](https://img.shields.io/badge/neovim-%23444499.svg?style=for-the-badge&logo=neovim)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57AD57.svg?style=for-the-badge&logo=neovim&logoColor=white)
+![Fish Shell](https://img.shields.io/badge/Fish%20Shell-4A90E2.svg?style=for-the-badge&logo=fish-shell&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 - [ani-bar](https://github.com/aniismess/ani-bar.git): My polybar configuration.
 - [hotfiles](https://github.com/aniismess/hotfiles.git): My i3 setup configuration files.
