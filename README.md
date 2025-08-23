@@ -21,6 +21,9 @@
 <a href="https://ligmawhat.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-deezballs-blue"></a>
 <a href="mailto:animesh.mishra818@gmail.com"><img src="https://img.shields.io/badge/Email-animesh.mishra818%40gmail.com-yellow"></a>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6br7znxeeediivovac1cort4t&cover_image=true&theme=default&show_offline=false&background_color=3d3846&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+
 #### Currently...
 
 - Reading: [White Nights](https://ia802900.us.archive.org/4/items/whitenightsother00dostiala/whitenightsother00dostiala.pdf)
