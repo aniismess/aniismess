@@ -19,7 +19,7 @@
 <a href="https://ligmawhat.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-deezballs-blue"></a>
 <a href="mailto:animesh.mishra818@gmail.com"><img src="https://img.shields.io/badge/Email-animesh.mishra818%40gmail.com-yellow"></a>
 
-![Playing](https://spotify-recently-played-readme.vercel.app/api?user=6br7znxeeediivovac1cort4t&count={1})
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ryoto&count=1)
 
 
 #### Currently...
