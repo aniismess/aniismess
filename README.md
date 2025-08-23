@@ -7,10 +7,11 @@
 ![Fish Shell](https://img.shields.io/badge/Fish%20Shell-4A90E2.svg?style=for-the-badge&logo=fish-shell&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
-- [ani-bar](https://github.com/aniismess/ani-bar.git): My polybar configuration.
-- [hotfiles](https://github.com/aniismess/hotfiles.git): My i3 setup configuration files.
 
 <details>
+  
+- [ani-bar](https://github.com/aniismess/ani-bar.git): My polybar configuration. 
+- [hotfiles](https://github.com/aniismess/hotfiles.git): My i3 setup configuration files.
 </details>
 
 
