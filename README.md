@@ -17,7 +17,7 @@
 
 #### Contact & Links
 <a href="https://discord.gg/3ZxZUAsA"><img src="https://img.shields.io/badge/Discord-animesh-7289da"></a>
-<a href="https://ligmawhat.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-deezballs-blue"></a>
+<a href="https://deiselman.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-deezballs-blue"></a>
 <a href="mailto:animesh.mishra818@gmail.com"><img src="https://img.shields.io/badge/Email-animesh.mishra818%40gmail.com-yellow"></a>
 
 
