@@ -16,22 +16,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-```text
 ```
 
 
 
 ```text
 
- Editors: 
 Neovim                   14 hrs 9 mins       █████████████████████████   100.00 % 
 
-                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-
- Operating System: 
 Linux                    14 hrs 9 mins       █████████████████████████   100.00 % 
 ```
-
 
 <!--END_SECTION:waka-->
 
