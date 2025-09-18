@@ -15,14 +15,6 @@
 
 <!--START_SECTION:waka-->
 
-```txt
-Python        5 hrs 33 mins   █████████▓░░░░░░░░░░░░░░░   39.31 %
-TypeScript    3 hrs 5 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.88 %
-hyprlang      1 hr 28 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
-Bash          1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
-Markdown      38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Contact & Links
