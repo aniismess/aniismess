@@ -12,10 +12,17 @@
 - [hotfiles](https://github.com/aniismess/hotfiles.git): My i3 setup configuration files.
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
 ```text
+🔥 Editors: 
 Neovim                   14 hrs 9 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
 Linux                    14 hrs 9 mins       █████████████████████████   100.00 % 
 ```
+
+
 <!--END_SECTION:waka-->
 #### Contact & Links
 <a href="https://discord.gg/3ZxZUAsA"><img src="https://img.shields.io/badge/Discord-animesh-7289da"></a>
