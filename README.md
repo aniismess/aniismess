@@ -8,12 +8,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 
-<details>
+
   
 - [ani-bar](https://github.com/aniismess/ani-bar.git): My polybar configuration. 
 - [hotfiles](https://github.com/aniismess/hotfiles.git): My i3 setup configuration files.
-</details>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 #### Contact & Links
 <a href="https://discord.gg/3ZxZUAsA"><img src="https://img.shields.io/badge/Discord-animesh-7289da"></a>
