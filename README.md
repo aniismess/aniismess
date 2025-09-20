@@ -12,16 +12,6 @@
 - [hotfiles](https://github.com/aniismess/hotfiles.git): My i3 setup configuration files.
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🔥 Editors: 
-Neovim                   12 hrs 4 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    12 hrs 4 mins       █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 #### Contact & Links
