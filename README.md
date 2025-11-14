@@ -16,10 +16,10 @@
 
 ```text
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   34 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    34 mins             █████████████████████████   100.00 % 
 ```
 
 
